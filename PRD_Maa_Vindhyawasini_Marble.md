@@ -214,6 +214,7 @@ Based on your own Gantt chart in the proposal:
 ---
 
 ## 23. Appendix / References
-- Source proposal: "Analytical Study of a Wholesale and Retail Marble, Tiles, and Sanitary Shop" — BDM Capstone Proposal, Tarun Chaudhary, Roll No. 24f3004421, IIT Madras.
-- Business: Maa Vindhyawasini Marble, Paraspura, Ghazipur, UP. Owner: Mrs. Anju Saraf.
+- On-ground interviews with owner,staffs and customers.
+- Business: Maa Vindhyawasini Marble, Paraspura, Ghazipur, UP.
 - Methods referenced: ABC Analysis, FSN Analysis, EOQ, ROP/Safety Stock — standard inventory management techniques.
+- IIT - Madras Official documentation for BDM capstone project
