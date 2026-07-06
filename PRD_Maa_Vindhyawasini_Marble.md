@@ -179,7 +179,8 @@ Business Recommendations
 
 # 14. Project Timeline
 
-Include your Gantt Chart here.
+<img width="958" height="376" alt="image" src="https://github.com/user-attachments/assets/f5c09e98-1876-4e10-b844-5b2976267dbf" />
+
 
 ---
 
